@@ -1,0 +1,79 @@
+[
+  {
+    "Sequence": 10,
+    "Symbol": "AAPL",
+    "BuySell": "S",
+    "Quantity": 102,
+    "Price": 4
+  },
+  {
+    "Sequence": 10,
+    "Symbol": "AMZN",
+    "BuySell": "B",
+    "Quantity": 3000,
+    "Price": 11
+  },
+  {
+    "Sequence": 10,
+    "Symbol": "AMZN",
+    "BuySell": "S",
+    "Quantity": 3015,
+    "Price": 14
+  },
+  {
+    "Sequence": 15,
+    "Symbol": "AMZN",
+    "BuySell": "S",
+    "Quantity": 3020,
+    "Price": 13
+  },
+  {
+    "Sequence": 20,
+    "Symbol": "AAPL",
+    "BuySell": "S",
+    "Quantity": 101,
+    "Price": 3
+  },
+  {
+    "Sequence": 20,
+    "Symbol": "META",
+    "BuySell": "S",
+    "Quantity": 57,
+    "Price": 7
+  },
+  {
+    "Sequence": 20,
+    "Symbol": "MSFT",
+    "BuySell": "B",
+    "Quantity": 148,
+    "Price": 10
+  },
+  {
+    "Sequence": 25,
+    "Symbol": "MSFT",
+    "BuySell": "B",
+    "Quantity": 150,
+    "Price": 8
+  },
+  {
+    "Sequence": 30,
+    "Symbol": "AAPL",
+    "BuySell": "B",
+    "Quantity": 98,
+    "Price": 2
+  },
+  {
+    "Sequence": 30,
+    "Symbol": "META",
+    "BuySell": "S",
+    "Quantity": 55,
+    "Price": 6
+  },
+  {
+    "Sequence": 50,
+    "Symbol": "AAPL",
+    "BuySell": "B",
+    "Quantity": 100,
+    "Price": 1
+  }
+]
